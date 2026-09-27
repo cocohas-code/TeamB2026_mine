@@ -10,6 +10,7 @@ URL:　https://drive.google.com/file/d/1MVqzaCRLYF3QvsPdSfgogbKA2AGgTVE3/view?us
 ゲームタイトル：Two you
 開発環境：Unity（6000.0.23f1）
 開発期間：2025年10月ー現在（継続中）
+動作環境：Windows
 開発人数：アーティスト　４名
 	　プログラマー　８名
 
